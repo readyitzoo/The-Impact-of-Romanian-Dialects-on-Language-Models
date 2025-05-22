@@ -1,16 +1,14 @@
 # The-Impact-of-Romanian-Dialects-on-Language-Models
 LLM and cognition
 
-# The Impact of Romanian Dialects on Language Models
-
 This project investigates how Romanian dialectal variation affects the performance of large language models (LLMs). We analyze and compare the effectiveness of multiple Romanian-focused models across texts sourced from newspapers across Romania, Moldova, and the Romanian diaspora.
 
 ## 📌 Objectives
 
+- Provide a cleaned, labeled dataset of Romanian dialectal newspaper articles.
 - Evaluate the ability of LLMs to distinguish and adapt to regional Romanian dialects.
 - Use both statistical and machine learning methods for dialect classification.
 - Measure model perplexity across dialect regions to understand linguistic influence.
-- Provide a cleaned, labeled dataset of Romanian dialectal newspaper articles.
 
 ## 🧠 Models Evaluated
 
@@ -60,15 +58,6 @@ Calculated per region:
 
 These metrics help assess lexical richness and syntactic complexity.
 
-## ⚠️ Ethical Use
-
-This dataset and analysis are strictly intended for:
-- Improving dialectal robustness in NLP tools
-- Understanding linguistic variation
-- Educational and research purposes
-
-**Do not** use this data to create or support discriminatory systems.
-
 ## 📚 References
 
 Key related works include:
@@ -81,9 +70,9 @@ Full bibliography available in the PDF report.
 
 ## 👨‍💻 Authors
 
+- [Mihai Dilirici](mailto:mihai.dilirici@s.unibuc.ro)
 - [Florin-Silviu Dinu](mailto:florin-silviu.dinu@s.unibuc.ro)
 - [Andrei-Virgil Ilie](mailto:andrei-virgil.ilie@s.unibuc.ro)
-- [Mihai Dilirici](mailto:mihai.dilirici@s.unibuc.ro)
 
 ---
 
