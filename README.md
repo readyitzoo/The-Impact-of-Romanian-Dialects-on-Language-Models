@@ -1,5 +1,4 @@
 # The-Impact-of-Romanian-Dialects-on-Language-Models
-LLM and cognition
 
 This project investigates how Romanian dialectal variation affects the performance of large language models (LLMs). We analyze and compare the effectiveness of multiple Romanian-focused models across texts sourced from newspapers across Romania, Moldova, and the Romanian diaspora.
 
